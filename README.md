@@ -1,3 +1,2 @@
 # website-portfolio
-
-portfolio of luis bartolome.
+ portfolio of luis bartolome
