@@ -218,7 +218,8 @@ main {
 
 .profile_photo {
     display: block;
-    max-width: 300px;
+    max-width: 30%;
+    height: 50%;
     float: left;
     margin-right: 3rem;
     border-radius: 50%;
