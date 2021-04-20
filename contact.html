@@ -61,6 +61,7 @@
               id="fullName"
               required
               placeholder="your fullname"
+              class="pepito"
             /><br />
             <label class="standard-label" for="contact-email">Email: </label
             ><br />
@@ -69,6 +70,8 @@
               id="contact-email"
               required
               placeholder="example@example.com"
+              class="pepito"
+              ;
             /><br />
             <label class="standard-label" for="Telephone">Telephone: </label
             ><br />
@@ -78,9 +81,16 @@
               pattern="\d{3}[\-]\d{3}[\-]\d{4}"
               required
               placeholder="your telephone"
+              class="pepito"
             /><br />
             <label class="standard-label" for="message">Message: </label><br />
-            <textarea id="message" maxlength="240" required></textarea><br />
+            <textarea
+              id="message"
+              maxlength="240"
+              class="pepito"
+              required
+            ></textarea
+            ><br />
             <input type="submit" value="Send message" /><br />
           </form>
           <br />
