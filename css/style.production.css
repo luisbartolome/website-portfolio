@@ -378,7 +378,7 @@ button:focus,
     }
     .profile_photo {
         height: 200px;
-        margin: 0 auto;
+        max-width: 100%;
     }
     .page-header__item {
         text-align: center;
