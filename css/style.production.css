@@ -217,7 +217,6 @@ main {
 }
 
 .profile_photo {
-    display: block;
     width: 400px;
     float: left;
     margin-right: 3rem;
